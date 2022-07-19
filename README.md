@@ -1,6 +1,6 @@
 # JS-Quiz
 This is 5 question quiz
-Used multiple  HTML CSS JS files to great this
+Used multiple  HTML CSS JS files to create this
 Making this was challenging and fun
 
 https://github.com/watssupp/JS-Quiz
